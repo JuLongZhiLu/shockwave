@@ -1,0 +1,16 @@
+images {
+  image: "/images/circle_01.png"
+}
+images {
+  image: "/images/circle_02.png"
+}
+images {
+  image: "/images/circle_03.png"
+}
+images {
+  image: "/images/circle_04.png"
+}
+images {
+  image: "/images/circle_05.png"
+}
+extrude_borders: 2
