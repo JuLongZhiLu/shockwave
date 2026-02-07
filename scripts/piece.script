@@ -1,0 +1,9 @@
+function init(self)
+	-- 将当前物体的 ID 加入全局列表
+	global_pieces_list[go.get_id()] = true
+end
+
+function final(self)
+	-- 当物体被销毁（比如掉落屏幕外）时，从列表中移除，防止内存泄漏或报错
+	global_pieces_list[go.get_id()] = nil
+end
