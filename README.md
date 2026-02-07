@@ -1,6 +1,9 @@
 # Community Challenge #5: Break It! 
 https://forum.defold.com/t/community-challenge-5-break-it/82303
 
+Version 1.0.0
+
+
 Play on browser
 https://julongzhilu.itch.io/shockwave
 
