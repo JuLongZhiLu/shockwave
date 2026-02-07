@@ -1,13 +1,3 @@
-# Welcome to Defold
-
-This project was created from the "empty" project template.
-
-The settings in ["game.project"](defold://open?path=/game.project) are all the default. A bootstrap empty ["main.collection"](defold://open?path=/main/main.collection) is included.
-
-Check out [the documentation pages](https://defold.com/learn) for examples, tutorials, manuals and API docs.
-
-If you run into trouble, help is available in [our forum](https://forum.defold.com).
-
-Happy Defolding!
-
----
+# Community Challenge #5: Break It! 
+https://forum.defold.com/t/community-challenge-5-break-it/82303
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/2fac3798-676f-48b1-9aa4-246abafaae76" />
